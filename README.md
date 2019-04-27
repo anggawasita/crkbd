@@ -20,3 +20,8 @@ These are unchanged from foostan's original repo:
 
 ## Photos
 
+![](https://i.imgur.com/HxKTuMt.jpg)
+![](https://i.imgur.com/849wzyT.jpg)
+![](https://i.imgur.com/QqnAWvG.jpg)
+![](https://i.imgur.com/FgO8hnW.jpg)
+![](https://i.imgur.com/raPWVdh.jpg)
